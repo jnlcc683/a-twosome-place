@@ -1,0 +1,95 @@
+li{
+    list-style:none;
+}
+
+
+
+
+
+nav>ul>li>p.menu>a>b{
+    color: rgb(255, 0, 119)
+}
+
+
+main>div>h4>span{
+    color:rgb(255, 0, 119)
+}
+
+
+
+
+main>div>section>dl>dt.medium_roast>b{
+    color: orange;
+}
+main>div>section>dl>dt.dark_roast>b{
+    color: rgb(19, 188, 255);
+}
+
+
+main>div>section>dl>dd>span{
+    color:rgb(255, 0, 119)
+}
+
+
+main>div>section>h6{
+    font-size: small;
+}
+
+main>div>section>h5{
+    font-size:medium;
+}
+
+
+main>div>section>p{
+    color: rgb(145, 145, 145);
+    font-size: small;
+}
+
+
+
+footer>div>h3>a>b{
+    color:white;
+}
+
+footer>div>h5{
+    color:white;
+}
+
+
+
+footer>div>h5.address{
+    color:white;
+}
+footer>div>address{
+    color: white;
+    font-style: normal;
+}
+
+
+
+
+footer>div>h4{
+    color:white;
+}
+
+footer>div>h5{
+    color:rgb(145, 145, 145)
+}
+
+
+hr{
+    color:rgb(213, 213, 213);
+}
+
+
+div>p>a>b{
+    color:white;
+}
+
+div>p.yellow>a>b{
+    color:yellow;
+}
+
+footer>div.info2{
+    color: rgb(145, 145, 145)
+}
